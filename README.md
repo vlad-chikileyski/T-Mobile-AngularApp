@@ -1,3 +1,6 @@
+**SML - AngularApp for T-Mobile v1.1.1:**
++ Little changes for uploading to server ;
+
 **SML - AngularApp for T-Mobile v1.1.0 :**
 + Create new configuration from production version: *config-standard-nowe-pole.json; 
 + Change default json configuration in main.bundle.js: "http://s3.eu-central-1.amazonaws.com/abee.execon.pl/p/resources/TMobile/AngularFixer/config-standard-nowe-pole.json'" => "localhost/example/config/config-standard-nowe-pole.json";
