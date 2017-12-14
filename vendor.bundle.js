@@ -71860,7 +71860,7 @@ var _testabilityGetter = new _NoopGetTestability();
  * Use of this source code is governed by an MIT-style license that can be
  * found in the LICENSE file at https://angular.io/license
  */
-var _devMode = true;
+var _devMode = false;
 var _runModeLocked = false;
 var _platform;
 var ALLOW_MULTIPLE_PLATFORMS = new InjectionToken('AllowMultipleToken');

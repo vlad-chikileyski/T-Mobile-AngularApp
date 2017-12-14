@@ -1582,82 +1582,82 @@
 		"myBox": {
 			"name": "MyBox",
 			"description": "Najpopularniejsze aplikacje T-Mobile zebrane w jednej aplikacji.",
-			"ico": "//cdn.abee.cloud/resources/TMobile/T_HYCOM/SML/images/_0011_mybox.png"
+			"ico": "/assets/img/T_HYCOM/SML/images/_0011_mybox.png"
 		},
 		"tidal": {
 			"name": "Tidal",
 			"description": "Muzyka bez limitu danych. To opcja umożliwiająca korzystanie z Tidala i słuchanie internetowych stacji radiowych w smartfonie bez zużywania paczek danych.",
-			"ico": "//cdn.abee.cloud/resources/TMobile/T_HYCOM/SML/images/_0005_Tidal.png"
+			"ico": "/assets/img/T_HYCOM/SML/images/_0005_Tidal.png"
 		},
 		"radio": {
 			"name": "Radio internetowe",
 			"description": "To opcja umożliwiająca korzystanie z Tidala i słuchanie internetowych stacji radiowych w smartfonie bez zużywania paczek danych.",
-			"ico": "//cdn.abee.cloud/resources/TMobile/T_HYCOM/SML/images/_0016_radio.png"
+			"ico": "/assets/img/T_HYCOM/SML/images/_0016_radio.png"
 		},
 		"nawigacja": {
 			"name": "Nawigacja",
 			"description": "Nawigacja, która szybko i bez korków doprowadzi Cię do celu. Aplikacja nie zużywa pakietów danych.",
-			"ico": "//cdn.abee.cloud/resources/TMobile/T_HYCOM/SML/images/_0009_nawigacja.png"
+			"ico": "/assets/img/T_HYCOM/SML/images/_0009_nawigacja.png"
 		},
 		"myDysk": {
 			"name": "MyDysk",
 			"description": "Przestrzeń na dysku na Twoje zdjęcia, wiadomości i muzykę. Dzięki MyDysk masz do nich dostęp z dowolnego miejsca w świecie - nawet po zmianie telefonu.",
-			"ico": "//cdn.abee.cloud/resources/TMobile/T_HYCOM/SML/images/_0010_mydysk.png"
+			"ico": "/assets/img/T_HYCOM/SML/images/_0010_mydysk.png"
 		},
 		"facebook": {
 			"name": "Facebook",
 			"description": "To opcja umożliwiająca korzystanie z Twoich ulubionych aplikacji społecznościowych bez zużywania paczek danych. Połączenia głosowe, połączenia video i korzystanie z linków do serwisów zewnętrznych (np.: Youtube) będą zużywały Twoje paczki danych.",
-			"ico": "//cdn.abee.cloud/resources/TMobile/T_HYCOM/SML/images/_0000_fb.png"
+			"ico": "/assets/img/T_HYCOM/SML/images/_0000_fb.png"
 		},
 		"twitter": {
 			"name": "Twitter",
 			"description": "To opcja umożliwiająca korzystanie z Twoich ulubionych aplikacji społecznościowych bez zużywania paczek danych. Połączenia głosowe, połączenia video i korzystanie z linków do serwisów zewnętrznych (np.: Youtube) będą zużywały Twoje paczki danych.",
-			"ico": "//cdn.abee.cloud/resources/TMobile/T_HYCOM/SML/images/_0003_twitter.png"
+			"ico": "/assets/img/T_HYCOM/SML/images/_0003_twitter.png"
 		},
 		"messenger": {
 			"name": "Messenger",
 			"description": "To opcja umożliwiająca korzystanie z Twoich ulubionych aplikacji społecznościowych bez zużywania paczek danych. Połączenia głosowe, połączenia video i korzystanie z linków do serwisów zewnętrznych (np.: Youtube) będą zużywały Twoje paczki danych.",
-			"ico": "//cdn.abee.cloud/resources/TMobile/T_HYCOM/SML/images/_0014_messenger.png"
+			"ico": "/assets/img/T_HYCOM/SML/images/_0014_messenger.png"
 		},
 		"whatsApp": {
 			"name": "WhatsApp",
 			"description": "To opcja umożliwiająca korzystanie z Twoich ulubionych aplikacji społecznościowych bez zużywania paczek danych. Połączenia głosowe, połączenia video i korzystanie z linków do serwisów zewnętrznych (np.: Youtube) będą zużywały Twoje paczki danych.",
-			"ico": "//cdn.abee.cloud/resources/TMobile/T_HYCOM/SML/images/_0001_whatsap.png"
+			"ico": "/assets/img/T_HYCOM/SML/images/_0001_whatsap.png"
 		},
 		"OLX": {
 			"name": "OLX  ",
 			"description": "To opcja umożliwiająca korzystanie z OLX w smartfonie bez zużywania paczek danych.",
-			"ico": "//cdn.abee.cloud/resources/TMobile/T_HYCOM/SML/images/_0008_OLX.png"
+			"ico": "/assets/img/T_HYCOM/SML/images/_0008_OLX.png"
 		},
 		"Otomoto": {
 			"name": "Otomoto",
 			"description": "To opcja umożliwiająca korzystanie z Otomoto w smartfonie bez zużywania paczek danych.",
-			"ico": "//cdn.abee.cloud/resources/TMobile/T_HYCOM/SML/images/_0006_otomoto.png"
+			"ico": "/assets/img/T_HYCOM/SML/images/_0006_otomoto.png"
 		},
 		"otodom": {
 			"name": "otodom",
 			"description": "To opcja umożliwiająca korzystanie z otodom w smartfonie bez zużywania paczek danych.",
-			"ico": "//cdn.abee.cloud/resources/TMobile/T_HYCOM/SML/images/_0007_otodom.png"
+			"ico": "/assets/img/T_HYCOM/SML/images/_0007_otodom.png"
 		},
 		"Migam": {
 			"name": "Migam",
 			"description": "To opcja umożliwiająca korzystanie z Migam w smartfonie bez zużywania paczek danych.",
-			"ico": "//cdn.abee.cloud/resources/TMobile/T_HYCOM/SML/images/_0013_migam.png"
+			"ico": "/assets/img/T_HYCOM/SML/images/_0013_migam.png"
 		},
 		"myTmobile": {
 			"name": "Mój T-Mobile",
 			"description": "To opcja umożliwiająca korzystanie z Mój T-Mobile bez zużywania paczek danych.",
-			"ico": "//cdn.abee.cloud/resources/TMobile/T_HYCOM/SML/images/_0012_moj-tm.png"
+			"ico": "/assets/img/T_HYCOM/SML/images/_0012_moj-tm.png"
 		},
 		"Usługi Bankowe": {
 			"name": "Usługi Bankowe",
 			"description": "To opcja umożliwiająca korzystanie z aplikacji T-Mobile Usługi Bankowe bez zużywania paczek danych.",
-			"ico": "//cdn.abee.cloud/resources/TMobile/T_HYCOM/SML/images/_0002_uslugibankowe.png"
+			"ico": "/assets/img/T_HYCOM/SML/images/_0002_uslugibankowe.png"
 		},
 		"Tinder": {
 			"name": "Tinder",
 			"description": "To opcja umożliwiająca korzystanie z Tindera bez zużywania paczek danych. Połączenia głosowe, połączenia video i korzystanie z linków do serwisów zewnętrznych (np.: Youtube) będą zużywały Twoje paczki danych.",
-			"ico": "//cdn.abee.cloud/resources/TMobile/T_HYCOM/SML/images/_0004_tinder.png"
+			"ico": "/assets/img/T_HYCOM/SML/images/_0004_tinder.png"
 		}
 	}
 }
