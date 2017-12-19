@@ -365,7 +365,7 @@ var TMOCriterionContractTabComponent = /** @class */ (function (_super) {
 /***/ "../../../../../src/app/criterions/tmo/tmo-criterion-offer-type/tmo-criterion-offer-type.component.html":
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"offer-type\">\r\n  <a class=\"offer-type__btn\" [ngClass]=\"{'active': i == data.selected}\" *ngFor=\"let crit of data.values; let i = index\" (click)=\"onOfferTypeSelection($event, i)\">{{ crit }}</a>\r\n</div>\r\n"
+module.exports = "<div class=\"offer-type\">\r\n  <a class=\"offer-type__btn\" [ngClass]=\"{'active': i == data.selected}\" *ngFor=\"let crit of data.values; let i = index\" (click)=\"onOfferTypeSelection($event, i)\" tabindex=\"0\">{{ crit }}</a>\r\n</div>\r\n"
 
 /***/ }),
 
