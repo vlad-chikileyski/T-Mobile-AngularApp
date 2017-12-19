@@ -1,7 +1,7 @@
 **SML - AngularApp for T-Mobile v1.3.0:**
 
 *`.SVG` , *`.TTF` , *`.WOFF` , *`.EOT`;
-Updated all file structure `/assets/css/style.css` where was url: `//s.t-mobile.pl/binaries` ;
+Updated all file structure `/assets/css/style.css` where was url: `//s.t-mobile.pl/binaries`;
 
 **SML - AngularApp for T-Mobile `v1.2.1`:**
 
