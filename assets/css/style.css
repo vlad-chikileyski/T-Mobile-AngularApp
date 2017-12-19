@@ -199,8 +199,8 @@ a:focus:not(.no-focus),button:focus:not(.no-focus),input[type=button]:focus:not(
 }
 @font-face {
  font-family:TeleGrotesk;
- src:url(http://s.t-mobile.pl/binaries/9049/rwd/assets/font/TeleGroteskFett.eot);
- src:url(http://s.t-mobile.pl/binaries/9049/rwd/assets/font/TeleGroteskFett.eot?#iefix) format("embedded-opentype"),url(http://s.t-mobile.pl/binaries/9049/rwd/assets/font/TeleGroteskFett.woff) format("woff"),url(http://s.t-mobile.pl/binaries/9049/rwd/assets/font/TeleGroteskFett.ttf) format("truetype"),url(http://s.t-mobile.pl/binaries/9049/rwd/assets/font/TeleGroteskFett.svg#TeleGroteskFett) format("svg");
+ src:url(/assets/fonts/TeleGroteskFett.eot);
+ src:url(/assets/fonts/TeleGroteskFett.eot?#iefix) format("embedded-opentype"),url(/assets/fonts/TeleGroteskFett.woff) format("woff"),url(/assets/fonts/TeleGroteskFett.ttf) format("truetype"),url(/assets/fonts/TeleGroteskFett.svg#TeleGroteskFett) format("svg");
  font-weight:700;
  font-style:normal
 }
@@ -209,8 +209,8 @@ a:focus:not(.no-focus),button:focus:not(.no-focus),input[type=button]:focus:not(
 }
 @font-face {
  font-family:TeleGrotesk;
- src:url(http://s.t-mobile.pl/binaries/9049/rwd/assets/font/TeleGroteskNormal.eot);
- src:url(http://s.t-mobile.pl/binaries/9049/rwd/assets/font/TeleGroteskNormal.eot?#iefix) format("embedded-opentype"),url(http://s.t-mobile.pl/binaries/9049/rwd/assets/font/TeleGroteskNormal.woff) format("woff"),url(http://s.t-mobile.pl/binaries/9049/rwd/assets/font/TeleGroteskNormal.ttf) format("truetype"),url(http://s.t-mobile.pl/binaries/9049/rwd/assets/font/TeleGroteskNormal.svg#TeleGroteskNormal) format("svg");
+ src:url(/assets/fonts/TeleGroteskNormal.eot);
+ src:url(/assets/fonts/TeleGroteskNormal.eot?#iefix) format("embedded-opentype"),url(/assets/fonts/TeleGroteskNormal.woff) format("woff"),url(/assets/fonts/TeleGroteskNormal.ttf) format("truetype"),url(/assets/fonts/TeleGroteskNormal.svg#TeleGroteskNormal) format("svg");
  font-weight:100;
  font-style:normal
 }
@@ -219,8 +219,8 @@ a:focus:not(.no-focus),button:focus:not(.no-focus),input[type=button]:focus:not(
 }
 @font-face {
  font-family:TeleGrotesk;
- src:url(http://s.t-mobile.pl/binaries/9049/rwd/assets/font/TeleGroteskHeadline-Regular.eot);
- src:url(http://s.t-mobile.pl/binaries/9049/rwd/assets/font/TeleGroteskHeadline-Regular.eot?#iefix) format("embedded-opentype"),url(http://s.t-mobile.pl/binaries/9049/rwd/assets/font/TeleGroteskHeadline-Regular.woff) format("woff"),url(http://s.t-mobile.pl/binaries/9049/rwd/assets/font/TeleGroteskHeadline-Regular.ttf) format("truetype"),url(http://s.t-mobile.pl/binaries/9049/rwd/assets/font/TeleGroteskHeadline-Regular.svg#TeleGroteskHeadline-Regular) format("svg");
+ src:url(/assets/fonts/TeleGroteskHeadline-Regular.eot);
+ src:url(/assets/fonts/TeleGroteskHeadline-Regular.eot?#iefix) format("embedded-opentype"),url(/assets/fonts/TeleGroteskHeadline-Regular.woff) format("woff"),url(/assets/fonts/TeleGroteskHeadline-Regular.ttf) format("truetype"),url(/assets/fonts/TeleGroteskHeadline-Regular.svg#TeleGroteskHeadline-Regular) format("svg");
  font-weight:300;
  font-style:normal
 }
@@ -229,8 +229,8 @@ a:focus:not(.no-focus),button:focus:not(.no-focus),input[type=button]:focus:not(
 }
 @font-face {
  font-family:TeleGrotesk;
- src:url(http://s.t-mobile.pl/binaries/9049/rwd/assets/font/TeleGroteskHalbfett.eot);
- src:url(http://s.t-mobile.pl/binaries/9049/rwd/assets/font/TeleGroteskHalbfett.eot?#iefix) format("embedded-opentype"),url(http://s.t-mobile.pl/binaries/9049/rwd/assets/font/TeleGroteskHalbfett.woff) format("woff"),url(http://s.t-mobile.pl/binaries/9049/rwd/assets/font/TeleGroteskHalbfett.ttf) format("truetype"),url(http://s.t-mobile.pl/binaries/9049/rwd/assets/font/TeleGroteskHalbfett.svg#TeleGroteskHalbfett) format("svg");
+ src:url(../fonts/);
+ src:url(/assets/fonts/TeleGroteskHalbfett.eot?#iefix) format("embedded-opentype"),url(/assets/fonts/TeleGroteskHalbfett.woff) format("woff"),url(/assets/fonts/TeleGroteskHalbfett.ttf) format("truetype"),url(/assets/fonts/TeleGroteskHalbfett.svg#TeleGroteskHalbfett) format("svg");
  font-weight:600;
  font-style:normal
 }
@@ -239,8 +239,8 @@ a:focus:not(.no-focus),button:focus:not(.no-focus),input[type=button]:focus:not(
 }
 @font-face {
  font-family:TeleGrotesk;
- src:url(http://s.t-mobile.pl/binaries/9049/rwd/assets/font/TeleGroteskUltra.eot);
- src:url(http://s.t-mobile.pl/binaries/9049/rwd/assets/font/TeleGroteskUltra.eot?#iefix) format("embedded-opentype"),url(http://s.t-mobile.pl/binaries/9049/rwd/assets/font/TeleGroteskUltra.woff) format("woff"),url(http://s.t-mobile.pl/binaries/9049/rwd/assets/font/TeleGroteskUltra.ttf) format("truetype"),url(http://s.t-mobile.pl/binaries/9049/rwd/assets/font/TeleGroteskUltra.svg#TeleGroteskUlt-Regular) format("svg");
+ src:url(/assets/fonts/TeleGroteskUltra.eot);
+ src:url(/assets/fonts/TeleGroteskUltra.eot?#iefix) format("embedded-opentype"),url(/assets/fonts/TeleGroteskUltra.woff) format("woff"),url(/assets/fonts/TeleGroteskUltra.ttf) format("truetype"),url(/assets/fonts/TeleGroteskUltra.svg#TeleGroteskUlt-Regular) format("svg");
  font-weight:900;
  font-style:normal
 }
@@ -249,8 +249,8 @@ a:focus:not(.no-focus),button:focus:not(.no-focus),input[type=button]:focus:not(
 }
 @font-face {
  font-family:TeleLogo;
- src:url(http://s.t-mobile.pl/binaries/9049/rwd/assets/font/TeleLogo.eot);
- src:url(http://s.t-mobile.pl/binaries/9049/rwd/assets/font/TeleLogo.eot?#iefix) format("embedded-opentype"),url(http://s.t-mobile.pl/binaries/9049/rwd/assets/font/TeleLogo.woff) format("woff"),url(http://s.t-mobile.pl/binaries/9049/rwd/assets/font/TeleLogo.ttf) format("truetype"),url(http://s.t-mobile.pl/binaries/9049/rwd/assets/font/TeleLogo.svg#TeleLogo) format("svg");
+ src:url(/assets/fonts/TeleLogo.eot);
+ src:url(/assets/fonts/TeleLogo.eot?#iefix) format("embedded-opentype"),url(/assets/fonts/TeleLogo.woff) format("woff"),url(/assets/fonts/TeleLogo.ttf) format("truetype"),url(/assets/fonts/TeleLogo.svg#TeleLogo) format("svg");
  font-weight:400;
  font-style:normal
 }
@@ -262,22 +262,22 @@ a:focus:not(.no-focus),button:focus:not(.no-focus),input[type=button]:focus:not(
 }
 @font-face {
  font-family:exo;
- src:url(http://s.t-mobile.pl/binaries/9049/rwd/assets/font/exo2-light-webfont.eot);
- src:url(http://s.t-mobile.pl/binaries/9049/rwd/assets/font/exo2-light-webfont.eot?#iefix) format("embedded-opentype"),url(http://s.t-mobile.pl/binaries/9049/rwd/assets/font/exo2-light-webfont.woff2) format("woff2"),url(http://s.t-mobile.pl/binaries/9049/rwd/assets/font/exo2-light-webfont.woff) format("woff"),url(http://s.t-mobile.pl/binaries/9049/rwd/assets/font/exo2-light-webfont.ttf) format("truetype"),url(http://s.t-mobile.pl/binaries/9049/rwd/assets/font/exo2-light-webfont.svg#exo_2light) format("svg");
+ src:url(/assets/fonts/exo2-light-webfont.eot);
+ src:url(/assets/fonts/exo2-light-webfont.eot?#iefix) format("embedded-opentype"),url(/assets/fonts/exo2-light-webfont.woff2) format("woff2"),url(/assets/fonts/exo2-light-webfont.woff) format("woff"),url(/assets/fonts/exo2-light-webfont.ttf) format("truetype"),url(/assets/fonts/exo2-light-webfont.svg#exo_2light) format("svg");
  font-weight:100;
  font-style:normal
 }
 @font-face {
  font-family:exo;
- src:url(http://s.t-mobile.pl/binaries/9049/rwd/assets/font/exo2-regular-webfont.eot);
- src:url(http://s.t-mobile.pl/binaries/9049/rwd/assets/font/exo2-regular-webfont.eot?#iefix) format("embedded-opentype"),url(http://s.t-mobile.pl/binaries/9049/rwd/assets/font/exo2-regular-webfont.woff2) format("woff2"),url(http://s.t-mobile.pl/binaries/9049/rwd/assets/font/exo2-regular-webfont.woff) format("woff"),url(http://s.t-mobile.pl/binaries/9049/rwd/assets/font/exo2-regular-webfont.ttf) format("truetype"),url(http://s.t-mobile.pl/binaries/9049/rwd/assets/font/exo2-regular-webfont.svg#exo_2regular) format("svg");
+ src:url(/assets/fonts/exo2-regular-webfont.eot);
+ src:url(/assets/fonts/exo2-regular-webfont.eot?#iefix) format("embedded-opentype"),url(/assets/fonts/exo2-regular-webfont.woff2) format("woff2"),url(/assets/fonts/exo2-regular-webfont.woff) format("woff"),url(/assets/fonts/exo2-regular-webfont.ttf) format("truetype"),url(/assets/fonts/exo2-regular-webfont.svg#exo_2regular) format("svg");
  font-weight:400;
  font-style:normal
 }
 @font-face {
  font-family:exo;
- src:url(http://s.t-mobile.pl/binaries/9049/rwd/assets/font/exo2-blackitalic-webfont.eot);
- src:url(http://s.t-mobile.pl/binaries/9049/rwd/assets/font/exo2-blackitalic-webfont.eot?#iefix) format("embedded-opentype"),url(http://s.t-mobile.pl/binaries/9049/rwd/assets/font/exo2-blackitalic-webfont.woff2) format("woff2"),url(http://s.t-mobile.pl/binaries/9049/rwd/assets/font/exo2-blackitalic-webfont.woff) format("woff"),url(http://s.t-mobile.pl/binaries/9049/rwd/assets/font/exo2-blackitalic-webfont.ttf) format("truetype"),url(http://s.t-mobile.pl/binaries/9049/rwd/assets/font/exo2-blackitalic-webfont.svg#exo_2black_italic) format("svg");
+ src:url(/assets/fonts/exo2-blackitalic-webfont.eot);
+ src:url(/assets/fonts/exo2-blackitalic-webfont.eot?#iefix) format("embedded-opentype"),url(/assets/fonts/exo2-blackitalic-webfont.woff2) format("woff2"),url(/assets/fonts/exo2-blackitalic-webfont.woff) format("woff"),url(/assets/fonts/exo2-blackitalic-webfont.ttf) format("truetype"),url(/assets/fonts/exo2-blackitalic-webfont.svg#exo_2black_italic) format("svg");
  font-weight:700;
  font-style:italic
 }
