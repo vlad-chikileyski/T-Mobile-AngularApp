@@ -309,7 +309,7 @@ var CriterionsComponent = /** @class */ (function () {
 /***/ "../../../../../src/app/criterions/tmo/tmo-criterion-contract-tab/tmo-criterion-contract-tab.component.html":
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"contract-tab\">\r\n  <a class=\"contract-tab__btn\" [ngClass]=\"{'active': i == data.selected}\" *ngFor=\"let crit of data.values; let i = index\" (click)=\"onOfferTypeSelection($event, i)\">{{ crit }}</a>\r\n</div>\r\n"
+module.exports = "<div class=\"contract-tab\">\r\n  <a class=\"contract-tab__btn\" [ngClass]=\"{'active': i == data.selected}\" *ngFor=\"let crit of data.values; let i = index\" (click)=\"onOfferTypeSelection($event, i)\" tabindex=\"0\">{{ crit }}</a>\r\n</div>\r\n"
 
 /***/ }),
 

@@ -1,3 +1,8 @@
+**SML - AngularApp for T-Mobile v1.3.1:**
+
+Updated `TAB` functionality;
+`tabindex="0"` for `<li>` elements;
+
 **SML - AngularApp for T-Mobile v1.3.0:**
 
 *`.SVG` , *`.TTF` , *`.WOFF` , *`.EOT`;
