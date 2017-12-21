@@ -871,12 +871,22 @@ var OfferBoxesComponent = /** @class */ (function () {
     OfferBoxesComponent.prototype.carouselResponsive = function () {
         var initialSlide = 0;
         this.slideConfig = {
-            'slidesToShow': this.numberOfBoxes,
+            /*'slidesToShow': this.numberOfBoxes,
             'initialSlide': 0,
             'infinite': false,
             'slidesToScroll': 1,
             'arrows': false,
+            'focusOnSelect': true,*/
+            'slidesToShow': 3,
+            'initialSlide': 0,
+            'centerMode': false,
+            'infinite': true,
+            'slidesToScroll': 1,
+            'arrows': true,
+            'prevArrow':'<img NgxCarouselPrev class="arrow-prev-l" alt="Next button - move to next slide" src="https://s3.eu-central-1.amazonaws.com/abee.execon.pl/p/resources/TMobile/AngularFixer/img/prev.png">',
+            'nextArrow':'<img NgxCarouselNext class="arrow-next-r" alt="Previous button - move to previous slide" src="https://s3.eu-central-1.amazonaws.com/abee.execon.pl/p/resources/TMobile/AngularFixer/img/next.png">',
             'focusOnSelect': true,
+            'dots': false,
             'responsive': [
                 {
                     'breakpoint': 1024,

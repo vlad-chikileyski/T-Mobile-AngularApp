@@ -1,3 +1,9 @@
+**SML - AngularApp for T-Mobile `v1.5.0`:**
+
++ styles for arrow block;
++ changes in bundle(`slick`) configuration;
++ other..
+
 **SML - AngularApp for T-Mobile `v1.4.1`:**
 
 + bugfix styles for price <p> - block;
