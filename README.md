@@ -1,15 +1,20 @@
-**SML - AngularApp for T-Mobile v1.4.0:**
+**SML - AngularApp for T-Mobile `v1.4.1`:**
+
++ bugfix styles for price <p> - block;
++ change default output in main.bundle.js;
+
+**SML - AngularApp for T-Mobile `v1.4.0`:**
 
 + new html preview;
 + all styles from prod;
 + include `*.bundle.js`;
 
-**SML - AngularApp for T-Mobile v1.3.1:**
+**SML - AngularApp for T-Mobile `v1.3.1`:**
 
 Updated `TAB` functionality;
 `tabindex="0"` for `<li>` elements;
 
-**SML - AngularApp for T-Mobile v1.3.0:**
+**SML - AngularApp for T-Mobile `v1.3.0`:**
 
 *`.SVG` , *`.TTF` , *`.WOFF` , *`.EOT`;
 Updated all file structure `/assets/css/style.css` where was url: `//s.t-mobile.pl/binaries`;
