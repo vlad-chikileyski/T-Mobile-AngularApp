@@ -1,3 +1,9 @@
+**SML - AngularApp for T-Mobile v1.4.0:**
+
++ new html preview;
++ all styles from prod;
++ include `*.bundle.js`;
+
 **SML - AngularApp for T-Mobile v1.3.1:**
 
 Updated `TAB` functionality;

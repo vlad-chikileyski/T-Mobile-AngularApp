@@ -83,6 +83,7 @@
     font-weight: 400;
     font-style: normal
 }
+
 /*Not working because host not have permission for this request */
 /*@font-face {
     font-family: "bebas_neue";
@@ -117,7 +118,8 @@
     font-family: 'CooperHewitt-Semibold';
     src: url(/assets/fonts/CooperHewitt-Semibold.eot);
     src: local(☺), url(/assets/fonts/CooperHewitt-Semibold.woff) format("woff"), url(/assets/fonts/CooperHewitt-Semibold.ttf) format("truetype")
-   /* REFACTOR THIS PART ,url(http://cdn.abee.cloud/resources/TMobile/T_SML/fonts/CooperHewitt-Semibold.svg) format("svg")*/;
+    /* REFACTOR THIS PART ,url(http://cdn.abee.cloud/resources/TMobile/T_SML/fonts/CooperHewitt-Semibold.svg) format("svg")*/
+;
     font-weight: 400;
     font-style: normal
 }
@@ -277,7 +279,7 @@
     position: absolute;
     bottom: 0;
     left: 0;
-    background: #666\9;
+    background: #666 \9;
     background: rgba(80, 80, 80, 0.75);
     width: 100%
 }
@@ -325,8 +327,8 @@
     font-weight: 700
 }
 
-.qtip-titlebar+.qtip-content {
-    border-top-width: 0!important
+.qtip-titlebar + .qtip-content {
+    border-top-width: 0 !important
 }
 
 .qtip-close {
@@ -441,8 +443,8 @@
 .qtip-youtube .qtip-content {
     padding: .75em;
     font: 12px arial, sans-serif;
-    filter: progid: DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr=#4a4a4a, EndColorStr=#000000);
-    -ms-filter: progid: DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr=#4a4a4a, EndColorStr=#000000);
+    filter: progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr=#4a4a4a, EndColorStr=#000000);
+    -ms-filter: progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr=#4a4a4a, EndColorStr=#000000);
 }
 
 .qtip-youtube .qtip-icon {
@@ -473,13 +475,13 @@
 
 .qtip-jtools .qtip-titlebar {
     background-color: transparent;
-    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr=#717171, endColorstr=#4A4A4A);
-    -ms-filter: progid: DXImageTransform.Microsoft.gradient(startColorstr=#717171, endColorstr=#4A4A4A)
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#717171, endColorstr=#4A4A4A);
+    -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#717171, endColorstr=#4A4A4A)
 }
 
 .qtip-jtools .qtip-content {
-    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr=#4A4A4A, endColorstr=#232323);
-    -ms-filter: progid: DXImageTransform.Microsoft.gradient(startColorstr=#4A4A4A, endColorstr=#232323)
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#4A4A4A, endColorstr=#232323);
+    -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#4A4A4A, endColorstr=#232323)
 }
 
 .qtip-jtools .qtip-titlebar,
@@ -576,8 +578,8 @@
     background-image: -moz-linear-gradient(top, #3A79B8, #2E629D);
     background-image: -ms-linear-gradient(top, #3A79B8, #2E629D);
     background-image: -o-linear-gradient(top, #3A79B8, #2E629D);
-    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr=#3A79B8, endColorstr=#2E629D);
-    -ms-filter: progid: DXImageTransform.Microsoft.gradient(startColorstr=#3A79B8, endColorstr=#2E629D)
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#3A79B8, endColorstr=#2E629D);
+    -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#3A79B8, endColorstr=#2E629D)
 }
 
 .qtip-tipped .qtip-icon {
@@ -675,12 +677,14 @@
         position: absolute;
         pointer-events: none
     }
+
     .qtip:after {
         border-color: rgba(255, 255, 255, 0);
         border-top-color: #fff;
         border-width: 15px;
         margin-left: -15px
     }
+
     .qtip:before {
         border-color: rgba(238, 238, 238, 0);
         border-top-color: #eee;
@@ -783,15 +787,15 @@
 }
 
 .wrapper-main .fett {
-    font-family: Tele-GroteskFet!important
+    font-family: Tele-GroteskFet !important
 }
 
 .wrapper-main .halb {
-    font-family: Tele-Grotesk-Halb!important
+    font-family: Tele-Grotesk-Halb !important
 }
 
 .wrapper-main .ultra {
-    font-family: tele-groteskultregular!important
+    font-family: tele-groteskultregular !important
 }
 
 .wrapper-main .center {
@@ -799,7 +803,7 @@
 }
 
 .wrapper-main .blue {
-    color: #e20074!important
+    color: #e20074 !important
 }
 
 .wrapper-main .font07 {
@@ -1007,7 +1011,7 @@
 }
 
 .wrapper-main .magenta {
-    color: #e20074!important
+    color: #e20074 !important
 }
 
 .wrapper-main .btn {
@@ -1021,7 +1025,7 @@
     padding: .5em 1.9em;
     border-radius: 3px;
     text-align: center;
-    text-decoration: none!important;
+    text-decoration: none !important;
     white-space: nowrap;
     display: inline-block;
     width: 62.165%;
@@ -1370,7 +1374,7 @@
     top: .5em
 }
 
-.wrapper-main .box .item .switcher>p {
+.wrapper-main .box .item .switcher > p {
     display: inline-block
 }
 
@@ -1556,7 +1560,7 @@
 }
 
 .wrapper-main .tip-active {
-    background: transparent url(/assets/img/tip-pink.png) center center no-repeat!important
+    background: transparent url(/assets/img/tip-pink.png) center center no-repeat !important
 }
 
 .wrapper-main .box .ico {
@@ -1583,7 +1587,7 @@
 }
 
 .wrapper-main .all-icons .content {
-    width: 100%!important
+    width: 100% !important
 }
 
 .wrapper-main .box-all-icons {
@@ -1619,7 +1623,7 @@
 }
 
 .wrapper-main .banners .content {
-    width: 100%!important
+    width: 100% !important
 }
 
 .wrapper-main .banners .content img {
@@ -1653,31 +1657,40 @@
     .visible-sm {
         display: none
     }
+
     .visible-md {
         display: block
     }
+
     .visible-lg {
         display: none
     }
+
     .hidden-sm {
         display: block
     }
+
     .hidden-md {
         display: none
     }
+
     .hidden-lg {
         display: block
     }
+
     .hide960 {
         display: none
     }
+
     .box:hover {
         background-color: none;
         z-index: 30;
         transform: none;
-        -webkit-box-shadow: none -moz-box-shadow: none;
+        -webkit-box-shadow: none
+        -moz-box-shadow: none;
         box-shadow: none
     }
+
     .box.hovered {
         background-color: none;
         z-index: 30;
@@ -1686,6 +1699,7 @@
         -moz-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
         box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5)
     }
+
     .wrapper .box.centered {
         filter: none;
         background: #fff;
@@ -1695,11 +1709,13 @@
         box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
         z-index: 60
     }
+
     .box-all-icons {
         width: 610px;
         margin: 0 auto;
         padding: 22px 0 22px 30px
     }
+
     .box-all-icons .ico.last-row-md {
         margin-left: 70px
     }
@@ -1709,27 +1725,35 @@
     .wrapper-main .visible-sm {
         display: block
     }
+
     .wrapper-main .visible-md {
         display: none
     }
+
     .wrapper-main .visible-lg {
         display: none
     }
+
     .wrapper-main .hidden-sm {
         display: none
     }
+
     .wrapper-main .hidden-md {
         display: block
     }
+
     .wrapper-main .hidden-lg {
         display: block
     }
+
     .wrapper-main {
         font-size: 14px
     }
+
     .wrapper-main .price.mid.alt {
         margin-top: -51px
     }
+
     .wrapper-main .mainCon {
         position: relative;
         width: 100%;
@@ -1741,6 +1765,7 @@
         height: 50px;
         max-width: 1920px
     }
+
     .wrapper-main .mainCon a.logo1 {
         display: inline-block;
         float: left;
@@ -1750,6 +1775,7 @@
         background: url(/assets/img/logo_03.png) 20px center no-repeat;
         background-size: auto 40px
     }
+
     .wrapper-main .mainCon a.logo2 {
         display: inline-block;
         width: 160px;
@@ -1760,56 +1786,71 @@
         background: url(/assets/img/logo_06.png) right center no-repeat;
         background-size: auto 40px
     }
+
     .wrapper-main .section .content {
         width: 1080px;
         text-align: center
     }
+
     .wrapper-main .box {
         width: 270px
     }
+
     .wrapper-main .box .item.fixed-height {
         height: 75px
     }
+
     .wrapper-main .box .ico {
         margin: 15px 0
     }
+
     .wrapper-main .box .ico-bonus {
         margin: 15px 10px;
         height: 36px
     }
+
     .wrapper-main .box-all-icons {
         width: 300px;
         margin: 0 auto;
         padding: 20px 15px
     }
+
     .wrapper-main .box-all-icons .ico {
         margin: 20px 15px 0 0
     }
+
     .wrapper-main .box-all-icons .ico:nth-child(odd) {
         margin: 20px 0 0
     }
+
     .wrapper-main .box-all-icons .ico.last {
         margin: 20px 0 0
     }
+
     .wrapper-main .box-all-icons .ico.last-row-sm {
         margin-left: 70px
     }
+
     .wrapper-main .box-all-icons .ico.last-row-md {
         margin-left: 0
     }
+
     .tooltipSMS {
         position: absolute;
         top: 182px;
     }
+
     .tooltipCalls {
         position: absolute;
         top: 96px;
     }
+
     .tooltipSupernet {
         position: absolute;
         top: 271px;
         left: 204px;
     }
+
     .tooltipApps {
         position: absolute;
         top: 510px;
@@ -1871,7 +1912,7 @@
     width: 25% !important;
     float: left;
     background: #eee;
-    border-radius: 0!important;
+    border-radius: 0 !important;
     position: relative;
 }
 
@@ -1901,7 +1942,7 @@
 }
 
 .wrapper-main .tel-switcher .switch-holder a:hover {
-    background: #eee!important;
+    background: #eee !important;
     box-shadow: none !important;
 }
 
@@ -1927,31 +1968,35 @@
     background: #fff !important;
     color: #e20074 !important;
     border: 1px solid #d2d2d2;
-    box-shadow: none!important;
+    box-shadow: none !important;
 }
 
-@media(min-width:769px) {
+@media (min-width: 769px) {
     .wrapper-main .tel-switcher .switch-holder .with-tel-trigger:first-child,
     .wrapper-main .tel-switcher .switch-holder .true-without-tel-trigger {
         border-radius: 5px 0 0 5px !important;
     }
+
     .wrapper-main .switch-holder .video-trigger.no-focus {
         border-radius: 0 5px 5px 0 !important;
     }
 }
 
-@media(max-width:768px) {
+@media (max-width: 768px) {
     .wrapper-main .tel-switcher .switch-holder a.three,
     .offer .wrapper-main .tel-switcher .switch-holder a {
-        width: 100%!important;
+        width: 100% !important;
         margin-bottom: 10px;
     }
+
     .wrapper-main .tel-switcher .switch-holder a:after {
         display: none !important;
     }
+
     .wrapper-main .tel-switcher {
         background: none;
     }
+
     .main-switcher .button {
         width: 50%;
         margin-right: 0;
@@ -2036,7 +2081,6 @@
     flex-direction: column;
 }
 
-
 .tooltipNetflix {
     position: absolute;
     top: 447px;
@@ -2049,8 +2093,6 @@
     left: 115px;
 }
 
-
-
 .tooltipNetflix.noPhone {
     top: 415px;
 }
@@ -2058,8 +2100,6 @@
 .netlfixLabel.noPhone {
     top: 411px;
 }
-
-
 
 .tooltipNetflix.rwd {
     top: 375px;
@@ -2070,10 +2110,6 @@
     top: 389px;
     left: 81px;
 }
-
-
-
-
 
 .tooltipNetflix.noPhone.rwd {
     top: 348px;
